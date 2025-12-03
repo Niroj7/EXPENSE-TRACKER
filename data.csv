@@ -1,0 +1,111 @@
+Date,Item,Amount,Category
+2024-01-01,Rent,1200,Housing
+2024-01-01,Groceries,85,Food
+2024-01-02,Metro Card,2.75,Transport
+2024-01-03,Coffee,4,Food
+2024-01-05,Phone Bill,45,Utilities
+2024-01-10,Electricity Bill,60,Utilities
+2024-01-12,Tuition Payment,5000,Education
+2024-01-15,Insurance Premium,150,Insurance
+2024-01-18,Gym Membership,30,Fitness
+2024-01-25,Gas Bill,40,Utilities
+
+2024-02-01,Rent,1200,Housing
+2024-02-03,Groceries,90,Food
+2024-02-05,Metro Card,2.75,Transport
+2024-02-09,Lunch,12,Food
+2024-02-14,Internet Bill,55,Utilities
+2024-02-20,Insurance Premium,150,Insurance
+2024-02-25,Gas Bill,35,Utilities
+2024-02-28,Movie Night,18,Entertainment
+
+2024-03-01,Rent,1200,Housing
+2024-03-02,Groceries,100,Food
+2024-03-04,Uber Ride,16,Transport
+2024-03-10,Electricity Bill,62,Utilities
+2024-03-12,Tuition Payment,5000,Education
+2024-03-15,Insurance Premium,150,Insurance
+2024-03-21,Gym Membership,30,Fitness
+2024-03-27,Doctor Visit,120,Medical
+
+2024-04-01,Rent,1200,Housing
+2024-04-02,Groceries,95,Food
+2024-04-05,Phone Bill,45,Utilities
+2024-04-09,Metro Card,2.75,Transport
+2024-04-14,Internet Bill,55,Utilities
+2024-04-20,Insurance Premium,150,Insurance
+2024-04-25,Gas Bill,38,Utilities
+2024-04-29,Picnic Snacks,20,Food
+
+2024-05-01,Rent,1200,Housing
+2024-05-03,Groceries,110,Food
+2024-05-05,Lunch,14,Food
+2024-05-08,Metro Card,2.75,Transport
+2024-05-11,Electricity Bill,65,Utilities
+2024-05-12,Tuition Payment,5000,Education
+2024-05-15,Insurance Premium,150,Insurance
+2024-05-22,Gym Membership,30,Fitness
+
+2024-06-01,Rent,1200,Housing
+2024-06-02,Groceries,98,Food
+2024-06-06,Coffee,4,Food
+2024-06-09,Phone Bill,45,Utilities
+2024-06-12,Internet Bill,55,Utilities
+2024-06-18,Insurance Premium,150,Insurance
+2024-06-25,Gas Bill,42,Utilities
+2024-06-28,Movie Night,40,Entertainment
+
+2024-07-01,Rent,1200,Housing
+2024-07-02,Groceries,105,Food
+2024-07-04,Uber Ride,15,Transport
+2024-07-10,Electricity Bill,70,Utilities
+2024-07-12,Tuition Payment,5000,Education
+2024-07-15,Insurance Premium,150,Insurance
+2024-07-18,Gym Membership,30,Fitness
+2024-07-26,Doctor Visit,110,Medical
+
+2024-08-01,Rent,1200,Housing
+2024-08-03,Groceries,115,Food
+2024-08-06,Metro Card,2.75,Transport
+2024-08-09,Phone Bill,45,Utilities
+2024-08-14,Internet Bill,55,Utilities
+2024-08-20,Insurance Premium,150,Insurance
+2024-08-25,Gas Bill,40,Utilities
+2024-08-27,Lunch,13,Food
+
+2024-09-01,Rent,1200,Housing
+2024-09-02,Groceries,120,Food
+2024-09-05,Metro Card,2.75,Transport
+2024-09-09,Electricity Bill,68,Utilities
+2024-09-12,Tuition Payment,5000,Education
+2024-09-15,Insurance Premium,150,Insurance
+2024-09-22,Gym Membership,30,Fitness
+2024-09-28,Movie Night,20,Entertainment
+
+2024-10-01,Rent,1200,Housing
+2024-10-03,Groceries,110,Food
+2024-10-05,Lunch,12,Food
+2024-10-09,Phone Bill,45,Utilities
+2024-10-14,Internet Bill,55,Utilities
+2024-10-20,Insurance Premium,150,Insurance
+2024-10-25,Gas Bill,39,Utilities
+2024-10-30,Picnic Snacks,18,Food
+
+2024-11-01,Rent,1200,Housing
+2024-11-02,Groceries,95,Food
+2024-11-06,Coffee,4,Food
+2024-11-10,Electricity Bill,70,Utilities
+2024-11-12,Tuition Payment,5000,Education
+2024-11-15,Insurance Premium,150,Insurance
+2024-11-18,Gym Membership,30,Fitness
+2024-11-26,Doctor Visit,115,Medical
+
+2024-12-01,Rent,1200,Housing
+2024-12-02,Groceries,105,Food
+2024-12-04,Metro Card,2.75,Transport
+2024-12-09,Phone Bill,45,Utilities
+2024-12-14,Internet Bill,55,Utilities
+2024-12-20,Insurance Premium,150,Insurance
+2024-12-25,Gas Bill,41,Utilities
+2024-12-27,Christmas Gift,50,Shopping
+2025-11-20,coffee,20,Utilities
