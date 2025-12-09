@@ -68,8 +68,10 @@ It is designed to be easy to use, visually clean, and perfect for showcasing you
 
 
 # 🌐 Live Streamlit Dashboard
-👉 https://your-streamlit-link-here.streamlit.app  
-(Replace with your actual deployed Streamlit link)
+👉 https://expense-tracker-kupudust2wwrzubaskytrd.streamlit.app
+
+
+--------------------------------------------------------------------------------------------
 
 **Visuals of  Streamlit Dashboard.**
 
