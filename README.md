@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1><b>💰 PERSONAL EXPENSE TRACKER — Personal Finance Manager</b></h1>
+<h1><b>💰 PERSONAL EXPENSE TRACKER —- Personal Finance Manager</b></h1>
 <h3><b>Tkinter + Streamlit + Python</b></h3>
 
 A modern, end-to-end expense tracking system combining a Tkinter desktop application  
