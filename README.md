@@ -9,7 +9,7 @@ with a Streamlit analytics dashboard for deep financial insights.
 </div>
 
 
----
+-----
 <div align="center"> <h2><b>🔍 OVERVIEW</b></h2> </div>
 
 The Expense Tracker is a simple and beginner-friendly financial tool that helps you record expenses and analyze your spending.
